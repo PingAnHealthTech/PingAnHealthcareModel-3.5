@@ -15,7 +15,7 @@
 
 HealthBench基准由OpenAI发布，由60个国家、26个医学专业的262名医生共同构建，包含5000组高仿真多轮医疗对话，并设置48,562项由医生制定的评分标准，是全球少数面向真实临床场景设计的专业医疗大模型评测体系。其中，HealthBench Hard被视为其高难度子集。OpenAI从5000组对话中筛选出1000组更具挑战性的案例，用于测试模型在复杂、不确定、高风险临床场景中的推理能力上限。平安医疗大模型在HealthBench Hard数据集中获得57.27的分数。
 
-<img width="1400" height="783" alt="image" src="https://github.com/user-attachments/assets/1b018ca1-92e4-4ab7-9c99-1e374dbcb144" />
+<img width="1120" height="600" alt="image" src="https://github.com/user-attachments/assets/1b018ca1-92e4-4ab7-9c99-1e374dbcb144" />
 
  
 🛠️ 技术路线
