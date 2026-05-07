@@ -17,6 +17,7 @@ HealthBench基准由OpenAI发布，由60个国家、26个医学专业的262名�
 
 <img width="1120" height="600" alt="image" src="https://github.com/user-attachments/assets/1b018ca1-92e4-4ab7-9c99-1e374dbcb144" />
 
+
  
 🛠️ 技术路线
  
